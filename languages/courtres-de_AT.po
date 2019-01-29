@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Court Reservation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-06 06:21+0000\n"
+"PO-Revision-Date: 2018-09-06 08:34+0200\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1\n"
+"Last-Translator: \n"
+"Language: de_AT\n"
+
+#: admin/partials/courtres-events.php:50 admin/partials/courtres-courts.php:46
+msgid " "
+msgstr "Uhr"
+
+#: admin/partials/courtres-event.php:96 admin/partials/courtres-court.php:86
+msgid " edit"
+msgstr " editieren"
+
+#: public/class-courtres-public.php:161
+msgid "<td class=\"available\">free</td>"
+msgstr "<td class=„available“>frei</td>"
+
+#: admin/partials/courtres-reservations.php:45
+#: admin/partials/courtres-events.php:41 admin/partials/courtres-courts.php:39
+msgid "Action"
+msgstr "Aktion"
+
+#: admin/partials/courtres-event.php:95 admin/partials/courtres-court.php:85
+msgid "Back"
+msgstr "Zurück"
+
+#: public/partials/courtres-public-display.php:75
+msgid "Championship"
+msgstr "Turnier"
+
+#: admin/partials/courtres-court.php:101
+msgid "Closes (hour)"
+msgstr "Schließt (Stunde)"
+
+#: public/partials/courtres-public-display.php:77
+msgid "Competition"
+msgstr "Forderung"
+
+#: admin/partials/courtres-reservations.php:39
+#: admin/partials/courtres-events.php:38 admin/partials/courtres-event.php:124
+msgid "Court"
+msgstr "Platz"
+
+#: public/partials/courtres-public-display.php:23
+msgid "Court not found."
+msgstr "Platz nicht gefunden."
+
+#. Name of the plugin
+msgid "Court Reservation"
+msgstr "Platz Reservierung"
+
+#: public/partials/courtres-public-display.php:20
+msgid "Court Reservation ID invalid."
+msgstr "Platzreservierungs-ID ungültig."
+
+#: public/partials/courtres-public-display.php:18
+msgid "Court Reservation ID not set."
+msgstr "Platzreservierungs-ID nicht gesetzt."
+
+#: admin/class-courtres-admin.php:190
+msgid "Courts"
+msgstr "Plätze"
+
+#: admin/partials/courtres-events.php:31 admin/partials/courtres-courts.php:29
+msgid "Create"
+msgstr "Erstellen"
+
+#: admin/partials/courtres-court.php:86
+msgid "Create Court"
+msgstr "Platz erstellen"
+
+#: admin/partials/courtres-event.php:96
+msgid "Create event"
+msgstr "Veranstaltung erstellen"
+
+#: public/partials/courtres-public-display.php:47
+#: admin/partials/courtres-reservations.php:43
+msgid "Date"
+msgstr "Datum"
+
+#: admin/partials/courtres-reservations.php:64
+#: admin/partials/courtres-event.php:143 admin/partials/courtres-court.php:118
+msgid "Delete"
+msgstr "Löschen"
+
+#: admin/partials/courtres-court.php:117
+msgid "Delete Court"
+msgstr "Platz löschen"
+
+#: admin/partials/courtres-event.php:142
+msgid "Delete Event"
+msgstr "Veranstaltung löschen"
+
+#: public/partials/courtres-public-display.php:74
+msgid "Double"
+msgstr "Doppel"
+
+#: admin/partials/courtres-events.php:51 admin/partials/courtres-courts.php:49
+msgid "Edit"
+msgstr "Editieren"
+
+#: admin/partials/courtres-event.php:120
+msgid "End"
+msgstr "Ende"
+
+#: admin/class-courtres-admin.php:208
+msgid "Events"
+msgstr "Veranstaltungen"
+
+#: admin/class-courtres-admin.php:296
+msgid "Friday"
+msgstr "Freitag"
+
+#: public/partials/courtres-public-display.php:50
+msgid "from"
+msgstr "bis"
+
+#. Author URI of the plugin
+msgid "https://webmuehle.at"
+msgstr "https://webmuehle.at"
+
+#. URI of the plugin
+msgid "https://www.webmuehle.at/plugin-platz-reservierung/"
+msgstr "https://www.webmuehle.at/plugin-platz-reservierung/"
+
+#: admin/partials/courtres-courts.php:28
+msgid "Manage Courts"
+msgstr "Platz verwalten"
+
+#: admin/partials/courtres-events.php:30
+msgid "Management of regular events"
+msgstr "Wiederkehrende Veranstaltungen verwalten"
+
+#: admin/class-courtres-admin.php:292
+msgid "Monday"
+msgstr "Montag"
+
+#: admin/partials/courtres-events.php:37 admin/partials/courtres-event.php:103
+#: admin/partials/courtres-court.php:93 admin/partials/courtres-courts.php:35
+msgid "Name"
+msgstr "Name"
+
+#: admin/partials/courtres-courts.php:36
+msgid "Openinghours"
+msgstr "Öffnungszeiten"
+
+#: admin/partials/courtres-court.php:97
+msgid "Opens (hour)"
+msgstr "Öffnet (Stunde)"
+
+#: public/partials/courtres-public-display.php:62
+msgid "optional"
+msgstr "optional"
+
+#: admin/partials/courtres-events.php:40
+msgid "Period"
+msgstr "Zeitraum"
+
+#: includes/class-courtres-activator.php:37
+#: public/partials/courtres-public-display.php:55
+#: admin/partials/courtres-reservations.php:40
+msgid "Player"
+msgstr "Spieler"
+
+#: public/partials/courtres-public-display.php:39
+msgid "Reservation"
+msgstr "Reservierung"
+
+#: admin/partials/courtres-court.php:105 admin/partials/courtres-courts.php:37
+msgid "Reservation Days in Advance"
+msgstr "Reservierungstage im Voraus"
+
+#. Description of the plugin
+msgid "Reservation system for tennis, squash and badminton"
+msgstr "Reservierungssystem für Tennis, Squash und Badminton"
+
+#: admin/class-courtres-admin.php:179
+msgid "Reservations"
+msgstr "Reservierungen"
+
+#: admin/class-courtres-admin.php:297
+msgid "Saturday"
+msgstr "Samstag"
+
+#: admin/partials/courtres-courts.php:38
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: public/partials/courtres-public-display.php:73
+msgid "Single"
+msgstr "Einzel"
+
+#: admin/partials/courtres-event.php:116
+msgid "Start"
+msgstr "Start"
+
+#: admin/partials/courtres-event.php:56 admin/partials/courtres-court.php:49
+msgid "Successfully changed!"
+msgstr "Successfully changed!"
+
+#: admin/partials/courtres-event.php:73 admin/partials/courtres-court.php:64
+msgid "Successfully created!"
+msgstr "Erfolgreich erstellt!"
+
+#: admin/class-courtres-admin.php:298
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: public/partials/courtres-public-display.php:59
+#: admin/partials/courtres-reservations.php:41
+msgid "Teammate"
+msgstr "Mitspieler"
+
+#: admin/class-courtres-admin.php:295
+msgid "Thursday"
+msgstr "Donnerstag"
+
+#: public/partials/courtres-public-display.php:88
+#: admin/partials/courtres-reservations.php:44
+msgid "Time"
+msgstr "Uhrzeit"
+
+#: public/partials/courtres-public-display.php:76
+msgid "Training"
+msgstr "Training"
+
+#: admin/class-courtres-admin.php:293
+msgid "Tuesday"
+msgstr "Dienstag"
+
+#: public/partials/courtres-public-display.php:70
+#: admin/partials/courtres-reservations.php:42
+msgid "Type"
+msgstr "Art"
+
+#: admin/partials/courtres-reservations.php:33
+msgid "Upcoming Reservations"
+msgstr "Bevorstehende Reservierungen"
+
+#. Author of the plugin
+msgid "Webmühle e.U."
+msgstr "Webmühle e.U."
+
+#: admin/class-courtres-admin.php:294
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+#: admin/partials/courtres-events.php:39 admin/partials/courtres-event.php:107
+msgid "Weekday"
+msgstr "Wochentag"

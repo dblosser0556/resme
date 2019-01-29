@@ -1,0 +1,95 @@
+.table-responsive {
+  overflow-x: auto;
+  min-height: 0.01%;
+}
+
+@media screen and (max-width: 767px) {
+  .table-responsive {
+    width: 100%;
+    margin-bottom: 15px;
+    overflow-y: hidden;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+  }
+}
+
+table.reservations td,
+table.reservations th {
+  text-align: center;
+  padding: 0.1em;
+  font-size: 0.8em;
+}
+
+
+table.reservations a.button {
+  margin: 0;
+  padding: 5px;
+
+}
+
+table.reservations a.button.delete {
+  margin: 0;
+  padding: 5px;
+}
+
+table.reservations td.blocked {
+  background-color: #b8b3b3 !important;
+  color: #fff;
+}
+
+form.resform select {
+  color: #333;
+  margin: 0;
+}
+
+.modal-title {
+  margin-bottom: 0px;
+}
+
+.ui-widget-overlay {
+  opacity: .50 !important;
+  filter: Alpha(Opacity=50) !important;
+  background: rgb(50, 50, 50) !important;
+}
+
+.spinner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.smt-spinner-circle {
+  width: 50px;
+  height: 50px;
+  margin: 20px;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.smt-spinner {
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+  border-right: 2px solid rgba(255, 255, 255, 0.6);
+  border-top: 2px solid blue;
+  border-left: 2px solid blue;
+  border-bottom: 2px solid blue;
+  animation: rotate--spinner 1.6s infinite;
+}
+
+@keyframes rotate--spinner {
+  from {
+    transform: rotate(0);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
