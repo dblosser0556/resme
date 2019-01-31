@@ -145,10 +145,6 @@ $mindate = $curdate->sub(new DateInterval('P30D'));
   </div>
 </div> 
 
-<!--
-<div id="loader" class="spinner" style="display:none">
-  <img src="<?= plugin_dir_url(__FILE__) . 'images/ajax-loader.gif' ?> "> 
-</div> -->
 
 <div  id="loader" class="smt-spinner-circle" style="display:none">
    <div class="smt-spinner"></div>
